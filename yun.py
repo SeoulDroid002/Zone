@@ -1,6 +1,4 @@
 import aiohttp
-import os
-os.system("pip install pyrogram asyncio re TgCrypto")
 import asyncio
 import re
 from pyrogram import Client, filters
